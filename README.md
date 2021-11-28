@@ -55,14 +55,17 @@
 ## Comment and Rating
 ![Comment And Rating](readme-assets/comment.png)
 
-## Edit a Blog
+## Create/Edit a Blog
 ![Edit Blog](readme-assets/edit.png)
 
-## Supervise Blog
-![Supervise Blog](readme-assets/pendingedit.png)
+## Moderate Blog
+![Moderate Blog](readme-assets/pendingedit.png)
 
-## View own blog and profile
+## View profile with user information and blogs
 ![Profile](readme-assets/profile.png)
 ![BlogList](readme-assets/list.png)
 
+## View own blog list and status
+![Profile](readme-assets/bloglist.png)
+![BlogList](readme-assets/image.png)
 
