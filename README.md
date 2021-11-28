@@ -63,9 +63,9 @@
 
 ## View profile with user information and blogs
 ![Profile](readme-assets/profile.png)
-![BlogList](readme-assets/list.png)
+![BlogList1](readme-assets/list.png)
 
 ## View own blog list and status
-![Profile](readme-assets/bloglist.png)
-![BlogList](readme-assets/image.png)
+![BlogList2](readme-assets/bloglist.PNG)
+![Moderate List](readme-assets/image.png)
 
