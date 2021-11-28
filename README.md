@@ -2,7 +2,8 @@
 
 # Academic Blog System
 
-- This is a system allow users to post blogs about academic enviroment.
+- This is a website that helps college students improve their education and knowledge by reading or contributing articles moderated by professional mentors.
+- Heroku: https://academyblog.herokuapp.com/ 
 
 # Team
 
