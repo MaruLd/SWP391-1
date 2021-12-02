@@ -24,9 +24,9 @@ import java.util.Map;
 public class ImageUtils {
 
     static Map authConfig = ObjectUtils.asMap(
-            "cloud_name", "swpgogogo",
-            "api_key", "274465474966931",
-            "api_secret", "XfhGKe_VQyV8X1tdnNwDuvlf47k",
+            "cloud_name", "",
+            "api_key", "",
+            "api_secret", "",
             "secure", true);
 
     public static byte[] InputStreamToBytes(InputStream is) throws IOException {
@@ -83,9 +83,9 @@ public class ImageUtils {
             String finalImageData = "data:image/png;base64," + base64;
 
             Map authConfig = ObjectUtils.asMap(
-                    "cloud_name", "swpgogogo",
-                    "api_key", "274465474966931",
-                    "api_secret", "XfhGKe_VQyV8X1tdnNwDuvlf47k",
+                    "cloud_name", "",
+                    "api_key", "",
+                    "api_secret", "",
                     "secure", true);
 
             Map uploadConfig = ObjectUtils.asMap(
